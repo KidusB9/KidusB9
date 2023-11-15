@@ -13,7 +13,7 @@ i'm curious 🌟
 - 💬 Ask me about Etchial concernes of AI, AutoML, and advanced neural networks.
 
 - 📫 How to reach me: https://www.kidusberhanu.com.
-- 
+  
 
 
 ## 🛠 Skills
@@ -29,11 +29,12 @@ i'm curious 🌟
 
 ## 📈 My GitHub Stats
 
-![Your Avatar](https://ui-avatars.com/api/?name=Kidus+ Berhanu&color=7F9CF5&background=EBF4FF)
+![Your Avatar](https://ui-avatars.com/api/?name=Kidus+Berhanu&color=7F9CF5&background=EBF4FF)
 ![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kidus-berhanu)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kidus-berhanu&layout=compact)
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Kidus-berhanu&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=default&layout=default&font=default)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
+
 
 
 

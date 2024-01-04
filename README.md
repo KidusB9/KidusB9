@@ -21,7 +21,7 @@ i'm curious 🌟
 - API and SDK: Power Automate, Graph API, RESTful API.
 - Machine Learning: Expert in TensorFlow, PyTorch, Scikit-learn, Keras, and XGBoost.
 - Cloud Services: Azure, AWS, Intune, GCP
-- Operating Systems: Linux, Windows
+- Databases: SQL, MySQL, PostgreSQL, BigQuery
 - Containerization: Azure Kubernetes Service, Docker
 - DevOps Tools: Jenkins, Git, Terraform, Ansible, Chef
 

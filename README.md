@@ -12,18 +12,8 @@ i'm curious 🌟
 - 🤔 I’m looking for help with  Transformers/GPTS.
 - 💬 Ask me about Etchial concernes of AI, AutoML, and advanced neural networks.
 
-- 📫 How to reach me: https://www.kidusberhanu.com.
+- 📫 How to reach me: mailto: kidus@kidusberhanu.com.
   
-
-
-## 🛠 Skills
-- Languages: Python, C++, Java, C#, Go, Rust, TypeScript.
-- API and SDK: Power Automate, Graph API, RESTful API.
-- Machine Learning: Expert in TensorFlow, PyTorch, Scikit-learn, Keras, and XGBoost.
-- Cloud Services: Azure, AWS, Intune, GCP
-- Databases: SQL, MySQL, PostgreSQL, BigQuery
-- Containerization: Azure Kubernetes Service, Docker
-- DevOps Tools: Jenkins, Git, Terraform, Ansible, Chef
 
 
 
@@ -32,7 +22,7 @@ i'm curious 🌟
 
 ![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kidus-berhanu)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kidus-berhanu&layout=compact)
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Kidus-berhanu&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 

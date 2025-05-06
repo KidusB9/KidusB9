@@ -1,97 +1,85 @@
+# 💻 Senior Software Engineer | Kidus Berhanu
+
 <div align="center">
-  
-  <!-- Cosmic Banner -->
-  ![Cosmic Banner](https://github.com/KidusB9/KidusB9/assets/65403771/0b9c0a17-8b3e-4f78-ba2c-4d4a8a4e9d4f)
-
-  <!-- Animated Typing -->
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=32&duration=4000&pause=1000&color=20C997&center=true&vCenter=true&width=800&height=80&lines=%F0%9F%9A%80+Systems+Alchemist;%F0%9F%92%BB+Full-Stack+Visionary;%F0%9F%93%9A+AI%2FML+Architect;%E2%9A%99%EF%B8%8F+Cloud+Conjurer;%F0%9F%92%A1+Innovation+Catalyst" alt="Holographic Header" />
-
-  <!-- Particle Network Visualization -->
-  [![Particles](https://particles.js.org/samples/images/background.png)](https://github.com/KidusB9)
-  
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=28&duration=4000&pause=1000&color=20C997&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;AI%2FML+Specialist;Cloud+Architect;Open+Source+Contributor;Systems+Innovator" alt="Professional Header" />
 </div>
 
 ---
 
-## 🚀 Tech Arsenal
+## 🛠️ Technical Expertise
 
-### ⚡ Core Weaponry
+### Core Technologies
+**Backend & Systems**  
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+**Frontend & Mobile**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+**Data & AI**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+[![Tech Radar](https://skillicons.dev/icons?i=go,python,js,ts,react,aws,gcp,kubernetes,docker,grafana,prometheus,redis,postgres,mongodb,rust,flutter,tensorflow,pytorch,kafka,spark,selenium,git,github,linux&perline=12)](https://skillicons.dev)
+
+---
+
+## 📈 Development Analytics
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,rust,py,ts,react,aws,gcp,kubernetes,docker,grafana,prometheus,redis,postgres,mongodb,flutter,tensorflow,pytorch,kafka,spark,git,github,linux&perline=15&theme=dark" alt="Tech Nexus" />
+
+### Activity Metrics
+[![Kidus's GitHub stats](https://github-readme-stats.vercel.app/api?username=KidusB9&show_icons=true&theme=dark&include_all_commits=true&count_private=true&custom_title=Development+Velocity)](https://github.com/KidusB9)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KidusB9&layout=compact&theme=dark&hide=roff,procfile&exclude_repo=contributions)](https://github.com/KidusB9)
+
+### Contribution Patterns
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KidusB9&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=KidusB9&theme=react-dark&hide_border=true&area=true)](https://github.com/KidusB9)
+
+### Code Health
+[![Code Time](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](https://wakatime.com/@KidusB9)
+![Lines of Code](https://img.shields.io/badge/Total_Lines-1.2M+-blueviolet?style=flat-square)
+![Project Health](https://img.shields.io/badge/Code_Health-98%25-success?style=flat-square)
+
+### 3D Contribution Visualization
+[![3D Contributions](https://github-readme-3d-contrib-stats.vercel.app/api?username=KidusB9&theme=dark)](https://github.com/KidusB9)
+
 </div>
 
-### 🌌 Specialized Systems
-| Category              | Technologies                                                                                                 |
-|-----------------------|-------------------------------------------------------------------------------------------------------------|
-| **Quantum Compute**   | ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat&logo=qiskit&logoColor=white)                |
-| **Blockchain**        | ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)          |
-| **Cybersecurity**     | ![Metasploit](https://img.shields.io/badge/Metasploit-258FFA?style=flat&logo=metasploit&logoColor=white)    |
+---
+
+## 🏆 Project Portfolio
+
+| Project | Description | Technologies | Status |
+|---------|-------------|--------------|--------|
+| **[Nebula AI](https://github.com/KidusB9/nebula-ai)** | Distributed ML training platform | Python, PyTorch, Kubernetes, GRPC | ![Active](https://img.shields.io/badge/Status-Active-brightgreen) |
+| **[Quantum Core](https://github.com/KidusB9/quantum-core)** | High-performance web framework | Rust, WASM, React, TypeScript | ![Production](https://img.shields.io/badge/Stage-Production-blue) |
+| **[StellarDB](https://github.com/KidusB9/stellar-db)** | Distributed time-series database | Go, Cassandra, Prometheus, Grafana | ![Maintained](https://img.shields.io/badge/Maintained-Yes-green) |
 
 ---
 
-## 📊 Neuro Metrics
+## 🌐 Collaboration & Contact
 
 <div align="center">
 
-<!-- Matrix-style Code Rain -->
-![Code Rain](https://github.com/KidusB9/KidusB9/assets/65403771/5e4d0cbd-0a2e-4d6e-9d8f-3f2f34e3c0a3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kidus-v)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-critical?style=for-the-badge&logo=gmail)](mailto:kidus.ht@gmail.com)
+[![Calendar](https://img.shields.io/badge/Schedule-Meeting-blueviolet?style=for-the-badge&logo=google-calendar)](https://calendly.com/kidus-ht)
 
-<!-- Interactive 3D Coding Globe -->
-[![Code Globe](https://github-readme-3d-globe.vercel.app/api?username=KidusB9&theme=dark&size=400)](https://github.com/KidusB9)
-
-<!-- Holographic Stats -->
-| Metric                | Analysis                                                                 |
-|-----------------------|--------------------------------------------------------------------------|
-| **Cognitive Load**    | ![Code Complexity](https://img.shields.io/badge/Complexity-9.8%2F10-ff69b4) |
-| **Pattern Density**   | ![Code Density](https://img.shields.io/badge/Density-87%25-20c997)          |
-| **Innovation Quotient** | ![Innovation](https://img.shields.io/badge/IQ-143%25-orange)                |
-
-</div>
-
----
-
-## 🌟 Singularity Projects
-
-### Core Innovations
-<table>
-  <tr>
-    <td width="30%">
-      <img src="https://github.com/KidusB9/nebula-ai/raw/main/docs/nebula-arch.png" alt="Nebula AI Architecture"/>
-    </td>
-    <td>
-      <h3><a href="https://github.com/KidusB9/nebula-ai">Nebula AI</a></h3>
-      <p>🪐 Distributed ML Orchestration Platform</p>
-      <img src="https://img.shields.io/badge/Scale-Petabyte-9cf?logo=apachespark&logoColor=white">
-      <img src="https://img.shields.io/badge/Nodes-1000+-blueviolet?logo=kubernetes">
-      <img src="https://img.shields.io/badge/Throughput-1M+tps-success">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3><a href="https://github.com/KidusB9/quantum-core">Quantum Core</a></h3>
-      <p>⚛️ Web Framework at Lightspeed</p>
-      <img src="https://img.shields.io/badge/Latency-<2ms-critical?logo=speedtest">
-      <img src="https://img.shields.io/badge/Concurrency-1M+-yellowgreen">
-    </td>
-    <td width="30%">
-      <img src="https://github.com/KidusB9/quantum-core/raw/main/docs/perf-chart.png" alt="Performance Chart"/>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🛰️ Deep Space Comms
-
-<div align="center">
-
-<!-- Animated Contact Matrix -->
-[![Contact Grid](https://github.com/KidusB9/KidusB9/assets/65403771/95c2c0c4-3a4c-4d4e-9a47-9f0a6b8a89c0)](https://linktr.ee/kidusb9)
-
-**Subspace Channels**  
-[![LinkedIn](https://img.shields.io/badge/%F0%9F%93%9D_LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/kidus-v)
-[![GitHub](https://img.shields.io/badge/%F0%9F%96%A5%EF%B8%8F_GitHub-181717?style=for-the-badge)](https://github.com/KidusB9)
-[![Email](https://img.shields.io/badge/%F0%9F%93%A7_Contact-critical?style=for-the-badge)](mailto:kidus.ht@gmail.com)
+**Technical Blog**: [Medium](https://medium.com/@yourprofile)  
+**Open Source Contributions**: [Contribution Map](https://github.com/KidusB9?tab=repositories)  
+**Professional Network**: [GitHub Sponsors](https://github.com/sponsors/KidusB9)
 
 </div>
 
@@ -99,13 +87,11 @@
 
 <div align="center">
   
-  <!-- Warp Drive Status -->
-  ![Warp Status](https://img.shields.io/badge/Warp_Drive-Online-brightgreen?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAYFJREFUeNqkU81Kw0AQnlkTTa2iFfGgBxEP/QNe9CKC4EHwD3gQvHr1H3gQvHrz4kHw4kGkFqE/tlRbG9OYZD2M2WxIY6oPHL7M7nxvfjazxhgj/7HMP5h3XdcJIXDO4TzP+0oppbXeQwhHkFJqKIrCxBgZY4xSSoUQYL4BZgHGGHmeO2stJpMJ9Pt9GA6H0Ov1YDabQZqm4JxzSZK4OI4dCjDGwFoLWZY5v98fDAZQLpdhuVxCtVqF9XoNlUoFttst1Go1WK1WUK/XwRBCYIxBCAGMMXBdF5IkIYBerwftdhuSJIFWqwXz+RwajQYsFgtoNpvw8vICnhACjDEwxhBCkGUZ+b7vttstNBoNqNfrlGeM0Xk6nUKr1aL7PM+9sywjD5RSBCCEIJjdbkf5w+EAp9OJYJbLJXieR+dyuUy5w+HgPaUUAWitCUBrTQD7/Z7y0+kUOp0O5Y/HI9RqNQKqVquUOx6P3jPG0Bc455BS0oYg0Nv3+z1UKhXY7XZQKpXofDgcyMNarQbGGHrDGEMbeJ5HG+Z5TgVBEECapvQK8vV6nXK4IQj0PM97jzGmN7i5uYHb21u4urqCy8tLuLi4gPPzcwqOxyN9DcMfAQYAvdcQW7xDMiUAAAAASUVORK5CYII=)
-  
-  **Quantum Entanglement Status**: ONLINE  
-  **Last Transmission**: NOW
+  ![Visitor Count](https://komarev.com/ghpvc/?username=KidusB9&color=blueviolet&label=Profile+Views)
+  [![Repos Tracked](https://img.shields.io/badge/Projects-27+-blue?logo=github)](https://github.com/KidusB9?tab=repositories)
+  [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-success)](https://github.com/KidusB9/Kidus-berhanu/pulls)
 
 </div>
 
-> *"Any sufficiently advanced technology is indistinguishable from magic."* - Arthur C. Clarke  
-> *README powered by [Markdown 2.0](https://github.com) • Tachyon Stream Updated: NOW*
+> "The only way to go fast is to go well" - Robert C. Martin  
+> *Metrics powered by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) • Updated: {DATE}*

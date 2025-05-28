@@ -1,4 +1,4 @@
-# 💻 Senior Software Engineer | Kidus Berhanu
+# 💻 Senior Software Engineer | Ethan Berhanu
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=28&duration=4000&pause=1000&color=20C997&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;AI%2FML+Specialist;Cloud+Architect;Open+Source+Contributor;Systems+Innovator" alt="Professional Header" />

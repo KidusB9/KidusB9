@@ -1,4 +1,4 @@
-# 💻 Senior Software Engineer | Ethan Berhanu
+# 💻 Senior Software Engineer | Kidus Berhanu
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=28&duration=4000&pause=1000&color=20C997&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;AI%2FML+Specialist;Cloud+Architect;Open+Source+Contributor;Systems+Innovator" alt="Professional Header" />
@@ -15,6 +15,8 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 **Frontend & Mobile**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
